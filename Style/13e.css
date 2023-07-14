@@ -1,0 +1,62 @@
+p {
+  font-family: Arial;
+}
+.top-section {
+  display: flex;
+  flex-direction: row;
+}
+.child-top-section {
+  width: 400px;
+  margin-left: 10px;
+}
+.profile-pic {
+  width: 55px;
+  height: 55px;
+  border-radius: 50px;
+  margin-top: 16px;
+  object-fit: cover;
+}
+.name {
+  margin-top: 20px;
+  margin-bottom:4px;
+}
+.name-s {
+  font-weight: bold
+}
+.address-s {
+  color: gray;
+}
+.content {
+  margin-top: 5px;
+  line-height: 22px;
+  font-weight: 600px;
+}
+.bottom-section {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid rgb(200, 200, 200);
+  width: 350px;
+  border-radius: 20px;
+  margin-top: -4px;
+  margin-left: 66px;
+}
+.blank-gray {
+  background-color: rgb(200, 200, 200);
+  width: 100px;
+  border: none;
+  border-top-left-radius: 17px;
+  border-bottom-left-radius: 17px;
+}
+.link-video-section {
+  margin-left: 15px;
+  align-items: center;
+}
+.link-video {
+  color: gray;
+  margin-bottom: 0;
+}
+.content-bottom {
+  width: 230px;
+  margin-top: 5px;
+  line-height: 1.3;
+}

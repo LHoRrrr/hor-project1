@@ -1,0 +1,73 @@
+.box-gmail {
+  width: 437px;
+  border: 1px solid rgb(216, 213, 213);
+  padding-top: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 2px 2px rgba(0, 0, 0, 0.15)
+}
+.top-section {
+  margin-left: 15px;
+  margin-bottom: 0;
+  margin-top: -15;
+  font-size: 14px;
+  color: gray;
+}
+.bottom-section1 {
+  display: flex;
+  margin-top: 15px;
+  width:450px;
+  margin-bottom: -10px;
+}
+.bottom-section2 {
+  display: flex;
+  margin-top: 15px;
+  width:430px;
+  margin-bottom: -10px;
+}
+.bottom-section3 {
+  display: flex;
+  margin-top: 15px;
+  width:430px;
+  margin-bottom: 15px;
+}
+.profile-pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.bottom-right-section {
+  width: 360px;
+  margin-left: 10px;
+  align-items: center;
+}
+.child-bottom-right-section {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0;
+  justify-content: space-between;
+  margin-top: -15px;
+}
+.name-section {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+.time-section {
+  margin-bottom: 0;
+  color: gray;
+}
+.time {
+  margin-right: 10px;
+}
+.achievment {
+  font-weight: bold;
+  margin-top: -10px;
+  margin-bottom: 0;
+}
+.short-info {
+  margin-top: 2px;
+  color: rgb(150, 150, 150);
+}
